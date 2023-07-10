@@ -1,0 +1,27 @@
+.shop{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 30px 100px 0px 100px;
+
+}
+.shop img{
+    width: 500px;
+}
+.shop h1{
+    font-size: 40px;
+    width: 500px;
+}
+.shop p{
+    width: 500px;
+}
+.shop button{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    padding: 10px 20px;
+}
+
+
+
