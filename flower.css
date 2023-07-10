@@ -22,6 +22,14 @@
     color: white;
     padding: 10px 20px;
 }
+.flower{
+    text-align: center;
+}
+.tulip{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
 
 
