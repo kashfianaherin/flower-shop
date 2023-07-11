@@ -61,6 +61,9 @@ justify-content: space-around;
 .queen{
     text-align: center;
 }
+.queen img{
+    width: 300px; 
+}
 
 
 
