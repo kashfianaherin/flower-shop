@@ -30,6 +30,42 @@
     justify-content: space-around;
     align-items: center;
 }
+.Fresh{
+    display: flex;
+justify-content: space-around;
+}
+.delivery{
+    background-color: rgb(16, 116, 116);
+    margin: 50px 100px ;
+    padding: 40px;
+    text-align: center;
+   
+   
+}
+.man{
+    display: flex;
+    justify-content: space-around;
+}
+.vase{
+    display: flex;
+    justify-content: center;
+    align-items: center;background-color: aqua;
+    padding: 30px 100px ;
+}
+.vase button{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    padding: 10px 20px;   
+}
+.queen{
+    text-align: center;
+}
+
+
+
+    
+    
 
 
 
