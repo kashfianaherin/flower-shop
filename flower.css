@@ -24,6 +24,34 @@
 }
 .flower{
     text-align: center;
+    margin-right:20px;
+    border-radius: 300px 300px 0px 0px; 
+    
+    
+}
+.beli{
+    background-color: bisque;
+    width: 300px ;
+    height: 350px ;
+    padding: 40px 10px 0px ;
+    border-radius: 300px 300px 0px 0px;
+    margin-right:150px ;  
+}
+.lily{
+    background-color: rgb(190, 190, 152);
+    width: 300px ;
+    height: 350px ;
+    padding: 40px 10px 0px ;
+    border-radius: 300px 300px 0px 0px;
+    margin-left:75px ; 
+}
+.mary{
+    background-color: rgb(123, 173, 173);
+    width: 300px ;
+    height: 350px ;
+    padding: 40px 10px 0px ;
+    border-radius: 300px 300px 0px 0px;
+    margin-left:200px ;  
 }
 .tulip{
     display: flex;
